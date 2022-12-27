@@ -1,0 +1,27 @@
+_repo: Wanderschuhe-und-andere-Erzahlungen_69575
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schieber, Anna
+    birthdate: 1867
+    deathdate: 1945
+    gutenberg_agent_id: '37014'
+    url: http://www.gutenberg.org/2009/agents/37014
+    wikipedia: https://de.wikipedia.org/wiki/Anna_Schieber
+description: ''
+gutenberg_issued: '2022-12-18'
+identifiers:
+  gutenberg: '69575'
+language: de
+pgterms:marc905: 20200503070516schieber
+pgterms:marc906: '1914'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'Germany: Eugen Salzer,1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Wanderschuhe: und andere Erzählungen'
+url: http://www.gutenberg.org/ebooks/69575
