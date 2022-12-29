@@ -1,5 +1,8 @@
 _repo: Wanderschuhe-und-andere-Erzahlungen_69575
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69575-h/images/cover.jpg
 creator:
   author:
     agent_name: Schieber, Anna
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37014
     wikipedia: https://de.wikipedia.org/wiki/Anna_Schieber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69575#Wanderschuhe-und-andere-Erzahlungen
 gutenberg_issued: '2022-12-18'
 identifiers:
   gutenberg: '69575'
